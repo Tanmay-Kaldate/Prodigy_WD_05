@@ -1,4 +1,4 @@
-const apiKey = 'd0dabadf28ac3836afa23382fde53b3b';
+const apiKey = 'd0dabadf28ac3836afa23382fde53b3b'; //your API key
 
 function getWeather() {
     const locationInput = document.getElementById('location');
